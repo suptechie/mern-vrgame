@@ -1,5 +1,5 @@
 # MERN VR Game 2.0
-- *Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-vrgame/tree/master)*
+- *Looking for the first edition code? [Check here](https://github.com/suptechie/mern-vrgame/tree/master)*
 
 A web-based game application with VR features - developed using React, React 360, Node, Express and MongoDB. 
 
@@ -23,17 +23,17 @@ A web-based game application with VR features - developed using React, React 360
 ### React 360
 The VR game is developed using React 360 and integrated into this application.
 
-The React 360 code for the game is [available here](https://github.com/shamahoque/MERNVR/tree/static-game-second-edition).
+The React 360 code for the game is [available here](https://github.com/suptechie/MERNVR/tree/static-game-second-edition).
 
 ---- 
 ### More applications built using this stack
 
-* [MERN Skeleton](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Social](https://github.com/shamahoque/mern-social/tree/second-edition)
-* [MERN Classroom](https://github.com/shamahoque/mern-classroom)
-* [MERN Marketplace](https://github.com/shamahoque/mern-marketplace/tree/second-edition)
-* [MERN Expense Tracker](https://github.com/shamahoque/mern-expense-tracker)
-* [MERN Mediastream](https://github.com/shamahoque/mern-mediastream/tree/second-edition)
+* [MERN Skeleton](https://github.com/suptechie/mern-social/tree/second-edition)
+* [MERN Social](https://github.com/suptechie/mern-social/tree/second-edition)
+* [MERN Classroom](https://github.com/suptechie/mern-classroom)
+* [MERN Marketplace](https://github.com/suptechie/mern-marketplace/tree/second-edition)
+* [MERN Expense Tracker](https://github.com/suptechie/mern-expense-tracker)
+* [MERN Mediastream](https://github.com/suptechie/mern-mediastream/tree/second-edition)
 
 Learn more at [mernbook.com](http://www.mernbook.com/)
 
