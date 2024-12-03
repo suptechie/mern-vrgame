@@ -28,7 +28,7 @@ The React 360 code for the game is [available here](https://github.com/suptechie
 ---- 
 ### More applications built using this stack
 
-* [MERN Skeleton](https://github.com/suptechie/mern-social/tree/second-edition)
+* [MERN Skeleton](https://github.com/suptechie/mern-skeleton/tree/second-edition)
 * [MERN Social](https://github.com/suptechie/mern-social/tree/second-edition)
 * [MERN Classroom](https://github.com/suptechie/mern-classroom)
 * [MERN Marketplace](https://github.com/suptechie/mern-marketplace/tree/second-edition)
